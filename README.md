@@ -7,7 +7,10 @@ This project implements the K-Nearest Neighbors (KNN) algorithm to classify clot
 
 ![KNN-SmallProject](./images/KNN-SmallProject.png)
 
+## KNN - ANSUR II Project
+This project implements the K-Nearest Neighbors (KNN) algorithm to Predict Gender from weight and height.
 
+![KNN-ANSUR_II_Project](./images/KNN-ANSUR2.png)
 
 ## Author
 
