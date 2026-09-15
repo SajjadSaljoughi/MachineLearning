@@ -1,4 +1,4 @@
-# Project Structures
+# Projects
 
 This is My Machine Learning Repository where I will be sharing my projects and learnings in the field of machine learning.
 
