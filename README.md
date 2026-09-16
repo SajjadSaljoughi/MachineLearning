@@ -1,5 +1,4 @@
 # Projects
-
 This is My Machine Learning Repository where I will be sharing my projects and learnings in the field of machine learning.
 
 ## KNN - Small Project
@@ -14,7 +13,6 @@ This project implements the K-Nearest Neighbors (KNN) algorithm to Predict Gende
 ![KNN-ANSUR_II_Project](./images/KNN-ANSUR2-2.png)
 
 ## Author
-
 Created by Sajjad Saljoughi
 
 
