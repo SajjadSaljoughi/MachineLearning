@@ -4,7 +4,7 @@
 
 Welcome to my Machine Learning repository! This repository contains my projects, experiments, exercises, and progress as I learn Machine Learning and work toward becoming an AI Engineer.
 
-I'm a C# developer expanding my programming skills into Python, Data Science, and Artificial Intelligence. My goal is to understand ML concepts by implementing algorithms, experimenting with datasets, and building practical projects.
+I'm a Python developer expanding my programming skills into Python, Data Science, and Artificial Intelligence. My goal is to understand ML concepts by implementing algorithms, experimenting with datasets, and building practical projects.
 
 ---
 
