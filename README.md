@@ -153,5 +153,7 @@ My current focus is on Python, Machine Learning, Deep Learning, and data analysi
 
 **GitHub:** [SajjadSaljoughi](https://github.com/SajjadSaljoughi)
 **Telegram:** [SajjadSaljoughi](https://t.me/SajjadSaljoughi)
+**Instagram:** [SajjadSaljoughi](https://www.instagram.com/SajjadSaljoughi)
+
 
 Thanks for visiting my repository!
